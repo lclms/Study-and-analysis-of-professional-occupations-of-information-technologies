@@ -1,0 +1,145 @@
+Area Name,Occupational Title, Employment,Mean Wage, Entry Wage,Experienced Wage
+Capital Region,Statisticians,90,78.5,45,95.26
+Capital Region,Computer and Mathematical Occupations,16230,75.98,48.53,89.7
+Capital Region,Computer and Information Research Scientists,60,117.52,91.01,130.77
+Capital Region,Computer Systems Analysts,3820,78.02,57.41,88.33
+Capital Region,Information Security Analysts,290,89.54,60.1,104.26
+Capital Region,Computer Programmers,2170,76.98,60.55,85.2
+Capital Region,Software Developers Applications,2290,83.83,52.97,99.25
+Capital Region,Software Developers Systems Software,810,102.81,72.07,118.18
+Capital Region,Web Developers,420,67.44,45.71,78.3
+Capital Region,Database Administrators,530,85,59.96,97.52
+Capital Region,Network and Computer Systems Administrators,1610,75.72,50.37,88.39
+Capital Region,Computer Network Architects,330,99.27,71.61,113.1
+Capital Region,Computer User Support Specialists,2540,51.11,34.17,59.58
+Capital Region,Computer Network Support Specialists,670,65.38,42.68,76.73
+Capital Region,Computer Occupations All Other,270,82.12,51.84,97.27
+Capital Region,Actuaries,140,119.53,66,146.3
+Capital Region,Operations Research Analysts,190,65.2,41.58,77
+Central New York Region,Computer and Mathematical Occupations,7070,77.46,45.99,93.2
+Central New York Region,Computer Systems Analysts,680,79.09,52.23,92.51
+Central New York Region,Information Security Analysts,70,89.9,62.16,103.77
+Central New York Region,Computer Programmers,560,74.09,51.17,85.55
+Central New York Region,Software Developers Applications,1090,88.6,64.23,100.78
+Central New York Region,Software Developers Systems Software,720,109.25,79.18,124.29
+Central New York Region,Web Developers,200,57.56,37.69,67.5
+Central New York Region,Database Administrators,120,71.43,46.52,83.88
+Central New York Region,Network and Computer Systems Administrators,730,71.05,46.82,83.16
+Central New York Region,Computer Network Architects,460,95.58,56.11,115.31
+Central New York Region,Computer User Support Specialists,1640,55.69,34.02,66.52
+Central New York Region,Computer Network Support Specialists,370,68.02,42.91,80.57
+Central New York Region,Computer Occupations All Other,180,85.14,62.37,96.52
+Central New York Region,Operations Research Analysts,150,90.49,61.48,105
+Finger Lakes Region,Computer and Mathematical Occupations,17770,73.87,42.47,89.57
+Finger Lakes Region,Computer Systems Analysts,2690,83.03,51.74,98.68
+Finger Lakes Region,Information Security Analysts,250,85,58.52,98.24
+Finger Lakes Region,Computer Programmers,1320,72.79,43.29,87.54
+Finger Lakes Region,Software Developers Applications,2550,87.65,57.4,102.78
+Finger Lakes Region,Software Developers Systems Software,2110,98.31,69.05,112.94
+Finger Lakes Region,Web Developers,380,61.54,38.25,73.19
+Finger Lakes Region,Database Administrators,380,81.2,47.61,98
+Finger Lakes Region,Network and Computer Systems Administrators,1610,74.39,51.21,85.98
+Finger Lakes Region,Computer Network Architects,800,81.87,55.55,95.03
+Finger Lakes Region,Computer User Support Specialists,4150,48.94,31.78,57.52
+Finger Lakes Region,Computer Network Support Specialists,1210,60.97,38.95,71.98
+Finger Lakes Region,Computer Occupations All Other,80,82.96,42.49,103.19
+Finger Lakes Region,Operations Research Analysts,170,67.19,48.87,76.35
+Hudson Valley Region,Computer and Mathematical Occupations,16370,92.78,51.82,113.26
+Hudson Valley Region,Computer Systems Analysts,1980,101.34,64.06,119.98
+Hudson Valley Region,Information Security Analysts,310,105.54,69.53,123.54
+Hudson Valley Region,Computer Programmers,1400,76.44,46.15,91.58
+Hudson Valley Region,Software Developers Applications,2560,113.17,71.71,133.9
+Hudson Valley Region,Software Developers Systems Software,1740,109.08,80.97,123.14
+Hudson Valley Region,Web Developers,620,76.21,41.38,93.62
+Hudson Valley Region,Database Administrators,590,87.98,56.85,103.54
+Hudson Valley Region,Network and Computer Systems Administrators,2100,91.08,59.85,106.69
+Hudson Valley Region,Computer Network Architects,290,112.3,69.6,133.66
+Hudson Valley Region,Computer User Support Specialists,2860,56.99,39.82,65.57
+Hudson Valley Region,Computer Network Support Specialists,800,92.35,47.08,114.98
+Hudson Valley Region,Computer Occupations All Other,380,88.39,60.17,102.5
+Hudson Valley Region,Operations Research Analysts,510,135.17,61.04,172.23
+Long Island Region,Computer and Mathematical Occupations,23850,87.2,49.56,106.02
+Long Island Region,Computer Systems Analysts,3190,92.52,58.47,109.55
+Long Island Region,Information Security Analysts,640,98.24,63.53,115.59
+Long Island Region,Computer Programmers,2160,86.52,42.7,108.43
+Long Island Region,Software Developers Applications,3870,98.49,60.09,117.7
+Long Island Region,Software Developers Systems Software,2020,113.4,75.87,132.16
+Long Island Region,Web Developers,750,70.48,40.47,85.48
+Long Island Region,Database Administrators,790,91.31,56.08,108.92
+Long Island Region,Network and Computer Systems Administrators,2860,88.23,61.36,101.67
+Long Island Region,Computer Network Architects,1010,104.79,72.36,121.01
+Long Island Region,Computer User Support Specialists,4300,57.2,36.75,67.42
+Long Island Region,Computer Network Support Specialists,1400,75.85,49.18,89.18
+Long Island Region,Computer Occupations All Other,350,91.55,60.77,106.94
+Long Island Region,Operations Research Analysts,220,86.49,60.39,99.54
+Mohawk Valley Region,Computer and Mathematical Occupations,2970,72.68,41.15,88.44
+Mohawk Valley Region,Computer and Information Research Scientists,130,99.54,76.61,111
+Mohawk Valley Region,Computer Systems Analysts,340,75.18,49.19,88.17
+Mohawk Valley Region,Information Security Analysts,60,89.06,49.27,108.96
+Mohawk Valley Region,Computer Programmers,260,71.73,47.44,83.88
+Mohawk Valley Region,Software Developers Applications,320,82.82,57.24,95.61
+Mohawk Valley Region,Software Developers Systems Software,230,107.44,75.39,123.46
+Mohawk Valley Region,Web Developers,170,65.64,35.92,80.5
+Mohawk Valley Region,Database Administrators,70,63.67,39.99,75.51
+Mohawk Valley Region,Network and Computer Systems Administrators,310,66.11,45.75,76.3
+Mohawk Valley Region,Computer Network Architects,70,92.84,64.48,107.02
+Mohawk Valley Region,Computer User Support Specialists,580,46.64,32.84,53.54
+Mohawk Valley Region,Computer Network Support Specialists,170,60.18,34.45,73.05
+Mohawk Valley Region,Computer Occupations All Other,60,73.37,53.16,83.47
+Mohawk Valley Region,Operations Research Analysts,60,76.59,45.27,92.25
+New York City Region,Computer and Mathematical Occupations,137460,105.2,58.12,128.74
+New York City Region,Computer and Information Research Scientists,480,165.48,99.93,198.25
+New York City Region,Computer Systems Analysts,22310,109.44,65.99,131.16
+New York City Region,Information Security Analysts,3150,131.07,78.94,157.14
+New York City Region,Computer Programmers,7790,104.25,60.06,126.35
+New York City Region,Software Developers Applications,33350,124.45,78.51,147.41
+New York City Region,Software Developers Systems Software,9570,121.24,73.64,145.04
+New York City Region,Web Developers,8070,88.05,53.04,105.56
+New York City Region,Database Administrators,3550,99.84,60.5,119.52
+New York City Region,Network and Computer Systems Administrators,12690,100.92,62.94,119.92
+New York City Region,Computer Network Architects,4460,119.04,58.29,149.42
+New York City Region,Computer User Support Specialists,19140,62.14,38.58,73.92
+New York City Region,Computer Network Support Specialists,4850,87.2,53.83,103.88
+New York City Region,Computer Occupations All Other,1660,92.44,51.77,112.77
+New York City Region,Actuaries,1680,144.17,76.19,178.17
+New York City Region,Operations Research Analysts,4010,113.08,59.96,139.64
+New York City Region,Statisticians,690,92.56,63.89,106.9
+North Country Region,Computer and Mathematical Occupations,1320,59.96,37.6,71.15
+North Country Region,Computer Systems Analysts,210,69.88,54.16,77.74
+North Country Region,Information Security Analysts,20,69.17,38.37,84.56
+North Country Region,Computer Programmers,80,66.13,47.26,75.57
+North Country Region,Software Developers Applications,90,79.02,52.27,92.4
+North Country Region,Software Developers Systems Software,20,97.59,58.25,117.26
+North Country Region,Web Developers,40,44.95,29.44,52.7
+North Country Region,Database Administrators,50,53.73,36.96,62.11
+North Country Region,Network and Computer Systems Administrators,210,58.02,36.89,68.59
+North Country Region,Computer Network Architects,30,66.51,42.62,78.46
+North Country Region,Computer User Support Specialists,410,45.32,30.74,52.6
+North Country Region,Computer Network Support Specialists,50,55.19,39.85,62.86
+North Country Region,Computer Occupations All Other,90,76.86,62.8,83.9
+Southern Tier Region,Computer and Mathematical Occupations,5270,80.65,47.13,97.4
+Southern Tier Region,Computer Systems Analysts,460,80.96,54.84,94.03
+Southern Tier Region,Information Security Analysts,130,98.53,65.68,114.96
+Southern Tier Region,Computer Programmers,520,84.13,58.1,97.15
+Southern Tier Region,Software Developers Applications,1040,91.53,57.86,108.36
+Southern Tier Region,Software Developers Systems Software,580,105.23,66.82,124.43
+Southern Tier Region,Web Developers,100,63.36,41.56,74.26
+Southern Tier Region,Database Administrators,120,77.2,47.93,91.83
+Southern Tier Region,Network and Computer Systems Administrators,630,81.39,50.98,96.59
+Southern Tier Region,Computer Network Architects,230,99.29,46.18,125.84
+Southern Tier Region,Computer User Support Specialists,1100,53.23,35.16,62.27
+Southern Tier Region,Computer Network Support Specialists,220,63.24,43.01,73.36
+Western New York Region,Computer and Mathematical Occupations,13500,70.7,40.22,85.95
+Western New York Region,Computer Systems Analysts,1960,76.45,51.07,89.13
+Western New York Region,Information Security Analysts,140,82.89,53.17,97.75
+Western New York Region,Computer Programmers,1250,70.77,43.66,84.32
+Western New York Region,Software Developers Applications,1700,83.93,56.94,97.43
+Western New York Region,Software Developers Systems Software,940,87.46,55.55,103.41
+Western New York Region,Web Developers,550,57.48,34.15,69.14
+Western New York Region,Database Administrators,360,78.94,41.15,97.83
+Western New York Region,Network and Computer Systems Administrators,1520,73.78,47.01,87.17
+Western New York Region,Computer Network Architects,270,86.98,58.79,101.07
+Western New York Region,Computer User Support Specialists,2970,47.91,30.85,56.45
+Western New York Region,Computer Network Support Specialists,980,61.08,34.73,74.25
+Western New York Region,Computer Occupations All Other,230,68.97,39.65,83.63
+Western New York Region,Operations Research Analysts,320,76.77,52.19,89.06
